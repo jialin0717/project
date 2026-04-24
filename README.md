@@ -75,6 +75,7 @@ Docker 컨테이너 내에서 Python 프로그램이 실행되며,
 
 실행 결과:
 [실행결과사진](7;06.png)
+(ai사용후에 결과사진)(9;09.png)
 
  ValueError, SyntaxError, RuntimeError 발생 빈도 출력
  report.csv 파일 생성
