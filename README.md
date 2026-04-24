@@ -15,3 +15,4 @@ docker run log-analyzer
 ValueError, SyntaxError, RuntimeError 발생 빈도 출력
 report.csv 파일 생성
 AI 기반 오류 수정 제안 출력
+![실행결과](07;06.png)
