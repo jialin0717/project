@@ -1,0 +1,5 @@
+timestamp,error_type,message
+2026-04-24 19:00,ValueError,Invalid input received
+2026-04-24 19:05,SyntaxError,Unexpected token
+2026-04-24 19:10,ValueError,Value out of range
+2026-04-24 19:15,RuntimeError,Stack overflow
